@@ -1,0 +1,152 @@
+{
+  "carros_comuns": [
+    {
+      "modelo": "Toyota Corolla",
+      "ano": 2020,
+      "cor": "Prata",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkampai.com.br%2Fofertas%2Faltis-hybrid&psig=AOvVaw29o7OmXD2k_buGtoyqJPv7&ust=1693920628766000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjBgqCIkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Honda Civic",
+      "ano": 2019,
+      "cor": "Branco",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jdpower.com%2Fcars%2F2019%2Fhonda%2Fcivic-si-sedan&psig=AOvVaw3nT68oaMOi2vEkbUwh-90j&ust=1693920704494000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOit6sWIkYEDFQAAAAAdAAAAABAX"
+    },
+    {
+      "modelo": "Volkswagen Golf",
+      "ano": 2018,
+      "cor": "Azul",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.km77.com%2Fcoches%2Fvolkswagen%2Fgolf%2F2013%2F3-puertas%2Fsport-by-r-line%2Fgolf-3p-sport-by-r-line-14-tsi-act-tech-150-cv-bmt%2Fdatos&psig=AOvVaw2Z1Zrs56qKm3fJ3Dz6OxGo&ust=1693920778196000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjIkuiIkYEDFQAAAAAdAAAAABAR"
+    },
+    {
+      "modelo": "Ford Focus",
+      "ano": 2017,
+      "cor": "Preto",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fbaixar%2F2017-ford-focus.html&psig=AOvVaw0udsRLQ7_rlIc5jjMeHsL8&ust=1693920932399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD5zq-JkYEDFQAAAAAdAAAAABAS"
+    },
+    {
+      "modelo": "Chevrolet Cruze",
+      "ano": 2018,
+      "cor": "Cinza",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autodashboard.com.br%2Fchevrolet-cruze-2018-financiamento%2F&psig=AOvVaw0PjZf0VpxiaonaRDVjOuiX&ust=1693921034974000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjt3eKJkYEDFQAAAAAdAAAAABA6"
+    },
+    {
+      "modelo": "Hyundai Elantra",
+      "ano": 2015,
+      "cor": "Cinza",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fg1.globo.com%2Fcarros%2Fnoticia%2F2015%2F08%2Fhyundai-lanca-nova-versao-do-elantra-no-brasil-veja-preco.html&psig=AOvVaw05pZ_aVcXnAGl9fmQ1efv7&ust=1693921233166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDqiL6KkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Nissan Sentra",
+      "ano": 2014,
+      "cor": "Verde",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoesporte.globo.com%2Ftestes%2Fnoticia%2F2015%2F06%2Favaliacao-nissan-sentra-20-unique.ghtml&psig=AOvVaw1Mt3wIIVgSH6gpeoJ5X51a&ust=1693921366088000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiprYGLkYEDFQAAAAAdAAAAABAI"
+    },
+    {
+      "modelo": "Kia Forte",
+      "ano": 2014,
+      "cor": "Azul",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcars.usnews.com%2Fcars-trucks%2Fkia%2Fforte%2F2014&psig=AOvVaw02u2XeQbmGdcQcWN2C4HNi&ust=1693921417596000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjHxpiLkYEDFQAAAAAdAAAAABAD"
+    }
+  ],
+  "carros_esportivos": [
+    {
+      "modelo": "Ferrari 488 GTB",
+      "ano": 2022,
+      "cor": "Vermelho",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.revistafullpower.com.br%2F720-cv-ferrari-f8-tributo-e-a-sucessora-da-488-gtb%2F&psig=AOvVaw3c_bPZ2PtU_xIV-ubzYjnC&ust=1693921483763000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLicgbmLkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Porsche 911 Carrera",
+      "ano": 2021,
+      "cor": "Prata",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoesporte.globo.com%2Fcarros%2Fnoticia%2F2020%2F03%2Fnovo-porsche-911-turbo-s-e-um-missil-de-650-cv-e-r-13-milhao.ghtml&psig=AOvVaw3frXFLzQH8i3ZIiX3ukFXA&ust=1693921534201000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDInM2LkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Lamborghini Huracan",
+      "ano": 2020,
+      "cor": "Amarelo",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultimatespecs.com%2Fbr%2Fcarros-ficha-tecnica%2FLamborghini%2F131145%2FLamborghini-Huracan-Evo-52-V10-RWD.html&psig=AOvVaw3Ma6FkQnXfpptKmGIjaJKQ&ust=1693921708983000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjB56OMkYEDFQAAAAAdAAAAABAN"
+    },
+    {
+      "modelo": "McLaren 720S",
+      "ano": 2019,
+      "cor": "Laranja",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gazetadopovo.com.br%2Fautomoveis%2Fipva-2019-os-carros-com-os-impostos-mais-caros-no-parana-5x1dyjhdgpvuhotyppqtrn9ga%2F&psig=AOvVaw0gtAJYZp9q9VaxEbM4JGFF&ust=1693921801407000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOinrc6MkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Audi R8",
+      "ano": 2018,
+      "cor": "Azul",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautopapo.uol.com.br%2Faudi%2Fr8%2F&psig=AOvVaw0BoTwsfFV1VUjts33ybZH6&ust=1693921836957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjm3-CMkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Chevrolet Corvette",
+      "ano": 2017,
+      "cor": "Preto",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkey.com%2Fdetail%2Fu2r5r5y3o0u2e6e6_slow-cranking-dead-battery-and-or-no-start%2F&psig=AOvVaw3lt-O_60wpTzOzdNNpYzoO&ust=1693921881661000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCz4fmMkYEDFQAAAAAdAAAAABAI"
+    },
+    {
+      "modelo": "Nissan GT-R",
+      "ano": 2016,
+      "cor": "Branco",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoesporte.globo.com%2Fcarros%2Fnoticia%2F2016%2F09%2Fnissan-lanca-gt-r-nismo-por-r-568-mil.ghtml&psig=AOvVaw3eaVhAcN_atC6tH7nT9Rz5&ust=1693921940045000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCVjJCNkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Ford Mustang",
+      "ano": 2015,
+      "cor": "Vermelho",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carwale.com%2Fford-cars%2Fmustang%2Fgt-fastback-50l-v8%2F&psig=AOvVaw34AJoIB7Hr1ttlPlPtdvFm&ust=1693921985785000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjFpKiNkYEDFQAAAAAdAAAAABAI"
+    }
+  ],
+  "carros_velhos": [
+    {
+      "modelo": "Volkswagen Fusca",
+      "ano": 1970,
+      "cor": "Azul",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmotortudo.com%2Fvw-fusca-73-1300-o-lider-emplaca-237-509-unidades%2F&psig=AOvVaw1I1w2ppP2GXJ3ynZA7zchN&ust=1693922037804000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjezMWNkYEDFQAAAAAdAAAAABAl"
+    },
+    {
+      "modelo": "Chevrolet Bel Air",
+      "ano": 1955,
+      "cor": "Vermelho",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3A1955_Chevrolet_Bel_Air_cnv_-_fvrT.jpg&psig=AOvVaw1yFAIZ7htDXn9IpEStnbKe&ust=1693922160720000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODa9vyNkYEDFQAAAAAdAAAAABAH"
+    },
+    {
+      "modelo": "Ford Model T",
+      "ano": 1923,
+      "cor": "Preto",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.handh.co.uk%2Fauction%2Flot%2F78-1923-ford-model-t-coupe%2F%3Flot%3D57290%26sd%3D1&psig=AOvVaw1I6bq63zTYLd7l6LPMr0Fi&ust=1693922289413000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjijbmOkYEDFQAAAAAdAAAAABAH"
+    },
+    {
+      "modelo": "Dodge Dart",
+      "ano": 1969,
+      "cor": "Verde",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F546835579747782096%2F&psig=AOvVaw0bD8e6wdvtsSLZtd7zBRK1&ust=1693922338684000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCZ5M2OkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Buick Skylark",
+      "ano": 1967,
+      "cor": "Azul",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beverlyhillscarclub.com%2F1967-buick-skylark-convertible-c-15041.htm&psig=AOvVaw0fR-taZ0IT7iwSTZ7Yqizs&ust=1693922419950000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDEmvSOkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Plymouth Barracuda",
+      "ano": 1971,
+      "cor": "Preto",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ca%2Fpin%2F519391769527379579%2F&psig=AOvVaw0Lsy9f8czAQj7CF_IOUDTK&ust=1693922627363000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiRmtqPkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Oldsmobile Cutlass",
+      "ano": 1966,
+      "cor": "Prata",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F208713763961440078%2F&psig=AOvVaw25WHyz-QhqzkzHUnyIyj83&ust=1693922696082000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNC_2fqPkYEDFQAAAAAdAAAAABAD"
+    },
+    {
+      "modelo": "Pontiac GTO",
+      "ano": 1965,
+      "cor": "Preto",
+      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F540150549043390109%2F&psig=AOvVaw0jUI8OZ73CMVQ-SPVhHcFI&ust=1693922746972000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj_7pOQkYEDFQAAAAAdAAAAABAD"
+    }
+  ]
+}
