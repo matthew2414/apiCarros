@@ -4,49 +4,49 @@
       "modelo": "Toyota Corolla",
       "ano": 2020,
       "cor": "Prata",
-      "imagem_url": ""
+      "imagem_url": "https://production.autoforce.com/uploads/version/profile_image/3975/comprar-altis-hybrid_3693fabddc.png"
     },
     {
       "modelo": "Honda Civic",
       "ano": 2019,
       "cor": "Branco",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jdpower.com%2Fcars%2F2019%2Fhonda%2Fcivic-si-sedan&psig=AOvVaw3nT68oaMOi2vEkbUwh-90j&ust=1693920704494000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOit6sWIkYEDFQAAAAAdAAAAABAX"
+      "imagem_url": "https://production.autoforce.com/uploads/version/profile_image/2700/comprar-touring_c8b732e56a.png"
     },
     {
       "modelo": "Volkswagen Golf",
       "ano": 2018,
       "cor": "Azul",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.km77.com%2Fcoches%2Fvolkswagen%2Fgolf%2F2013%2F3-puertas%2Fsport-by-r-line%2Fgolf-3p-sport-by-r-line-14-tsi-act-tech-150-cv-bmt%2Fdatos&psig=AOvVaw2Z1Zrs56qKm3fJ3Dz6OxGo&ust=1693920778196000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjIkuiIkYEDFQAAAAAdAAAAABAR"
+      "imagem_url": "https://carroecarros.com.br/wp-content/uploads/2017/04/Novo-Golf-2018-9.jpg"
     },
     {
       "modelo": "Ford Focus",
       "ano": 2017,
       "cor": "Preto",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fbaixar%2F2017-ford-focus.html&psig=AOvVaw0udsRLQ7_rlIc5jjMeHsL8&ust=1693920932399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD5zq-JkYEDFQAAAAAdAAAAABAS"
+      "imagem_url": "https://s3.autogestor.net/595/vehicles/946993/photos/e8kDdvG9z6US5c8qYTjLjcS7TCHe3Ryx.jpg"
     },
     {
       "modelo": "Chevrolet Cruze",
       "ano": 2018,
       "cor": "Cinza",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autodashboard.com.br%2Fchevrolet-cruze-2018-financiamento%2F&psig=AOvVaw0PjZf0VpxiaonaRDVjOuiX&ust=1693921034974000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjt3eKJkYEDFQAAAAAdAAAAABA6"
+      "imagem_url": "https://www.autossegredos.com.br/wp-content/webp-express/webp-images/uploads/2017/08/chevrolet-cruze-seda-lt-2018.jpg.webp"
     },
     {
       "modelo": "Hyundai Elantra",
       "ano": 2015,
       "cor": "Cinza",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fg1.globo.com%2Fcarros%2Fnoticia%2F2015%2F08%2Fhyundai-lanca-nova-versao-do-elantra-no-brasil-veja-preco.html&psig=AOvVaw05pZ_aVcXnAGl9fmQ1efv7&ust=1693921233166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDqiL6KkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://s2.glbimg.com/9XVieHYRmpiTgv1HnQcYq7rV278=/s.glbimg.com/jo/g1/f/original/2015/08/21/elantra_prata_preto_1.jpg"
     },
     {
       "modelo": "Nissan Sentra",
       "ano": 2014,
-      "cor": "Verde",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoesporte.globo.com%2Ftestes%2Fnoticia%2F2015%2F06%2Favaliacao-nissan-sentra-20-unique.ghtml&psig=AOvVaw1Mt3wIIVgSH6gpeoJ5X51a&ust=1693921366088000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiprYGLkYEDFQAAAAAdAAAAABAI"
+      "cor": "Azul Escuro",
+      "imagem_url": "https://3.bp.blogspot.com/-c8Q-P8RtCMM/Un_plue1ZKI/AAAAAAABL5Q/Ej0Humuj_N8/s1600/Nissan-Sentra-2014+(21).jpg"
     },
     {
       "modelo": "Kia Forte",
       "ano": 2014,
       "cor": "Azul",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcars.usnews.com%2Fcars-trucks%2Fkia%2Fforte%2F2014&psig=AOvVaw02u2XeQbmGdcQcWN2C4HNi&ust=1693921417596000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjHxpiLkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://cars.usnews.com/static/images/Auto/izmo/i4462/2014_kia_forte_angularfront.jpg"
     }
   ],
   "carros_esportivos": [
@@ -54,37 +54,37 @@
       "modelo": "Ferrari 488 GTB",
       "ano": 2022,
       "cor": "Vermelho",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.revistafullpower.com.br%2F720-cv-ferrari-f8-tributo-e-a-sucessora-da-488-gtb%2F&psig=AOvVaw3c_bPZ2PtU_xIV-ubzYjnC&ust=1693921483763000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLicgbmLkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://www.revistafullpower.com.br/wp-content/uploads/2019/03/fe01.jpg"
     },
     {
       "modelo": "Porsche 911 Carrera",
       "ano": 2021,
       "cor": "Prata",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautoesporte.globo.com%2Fcarros%2Fnoticia%2F2020%2F03%2Fnovo-porsche-911-turbo-s-e-um-missil-de-650-cv-e-r-13-milhao.ghtml&psig=AOvVaw3frXFLzQH8i3ZIiX3ukFXA&ust=1693921534201000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDInM2LkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://novo.bocamafrapremium.com.br/wp-content/uploads/2022/04/b7d23c576b55447bba61559643e0c377_1651171537130.jpg"
     },
     {
       "modelo": "Lamborghini Huracan",
       "ano": 2020,
       "cor": "Amarelo",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultimatespecs.com%2Fbr%2Fcarros-ficha-tecnica%2FLamborghini%2F131145%2FLamborghini-Huracan-Evo-52-V10-RWD.html&psig=AOvVaw3Ma6FkQnXfpptKmGIjaJKQ&ust=1693921708983000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjB56OMkYEDFQAAAAAdAAAAABAN"
+      "imagem_url": "https://s2-autoesporte.glbimg.com/lP1kOhljhWGlI6PF6Ya5_FYP54c=/0x0:620x400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/V/U/fW0FOXSuecK8nwTVIg0w/2014-05-02-lamborghini3.jpg"
     },
     {
       "modelo": "McLaren 720S",
       "ano": 2019,
       "cor": "Laranja",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gazetadopovo.com.br%2Fautomoveis%2Fipva-2019-os-carros-com-os-impostos-mais-caros-no-parana-5x1dyjhdgpvuhotyppqtrn9ga%2F&psig=AOvVaw0gtAJYZp9q9VaxEbM4JGFF&ust=1693921801407000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOinrc6MkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://transetudo.com.br/assets/uploads/files/f05f4-novo-750s-ja-esta-disponi-vel-no-brasil.jpg"
     },
     {
       "modelo": "Audi R8",
       "ano": 2018,
       "cor": "Azul",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fautopapo.uol.com.br%2Faudi%2Fr8%2F&psig=AOvVaw0BoTwsfFV1VUjts33ybZH6&ust=1693921836957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjm3-CMkYEDFQAAAAAdAAAAABAD"
+      "imagem_url": "https://s2-autoesporte.glbimg.com/sbNhaqi2dsSJwVmzWjKc4MWwzU4=/46x69:1802x1246/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/h/T/lSLRk2TBGd6nsfKSpgLQ/audi-r8-v10-performance-4.jpeg"
     },
     {
       "modelo": "Chevrolet Corvette",
       "ano": 2017,
       "cor": "Preto",
-      "imagem_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngkey.com%2Fdetail%2Fu2r5r5y3o0u2e6e6_slow-cranking-dead-battery-and-or-no-start%2F&psig=AOvVaw3lt-O_60wpTzOzdNNpYzoO&ust=1693921881661000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCz4fmMkYEDFQAAAAAdAAAAABAI"
+      "imagem_url": "https://i.pinimg.com/originals/1c/0b/65/1c0b65b952fb21cf019fa3b6876782b3.png"
     },
     {
       "modelo": "Nissan GT-R",
